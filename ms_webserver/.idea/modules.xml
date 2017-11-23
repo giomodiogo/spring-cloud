@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ms_load_balancer.iml" filepath="$PROJECT_DIR$/ms_load_balancer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ms_webserver.iml" filepath="$PROJECT_DIR$/.idea/modules/ms_webserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ms_webserver_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ms_webserver_main.iml" group="ms_webserver" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ms_webserver_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ms_webserver_test.iml" group="ms_webserver" />
+    </modules>
+  </component>
+</project>
